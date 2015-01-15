@@ -1,0 +1,6 @@
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem4\bin\Debug\Problem4.exe.config
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem4\bin\Debug\Problem4.exe
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem4\bin\Debug\Problem4.pdb
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem4\obj\Debug\Problem4.exe
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem4\obj\Debug\Problem4.pdb

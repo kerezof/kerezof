@@ -1,0 +1,5 @@
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6\bin\Debug\Problem6.exe.config
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6\bin\Debug\Problem6.exe
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6\bin\Debug\Problem6.pdb
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6\obj\Debug\Problem6.exe
+c:\users\kerezof\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6\obj\Debug\Problem6.pdb
